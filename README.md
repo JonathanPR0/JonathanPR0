@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jonathan, e gosto muito de aprender sobre as novas tecnologias!
+### Olá! Eu sou o Jonathan, um admirador de novas tecnologias!
 
 <div align="center">
   <a href="https://github.com/JonathanPR0">
