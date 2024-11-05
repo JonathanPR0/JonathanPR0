@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I’m Jonathan a Full-Stack Developer 👋</h2>
-<p>I'm focused on building efficient, scalable, and user-friendly applications with React, Node.js, and Tailwind CSS. Always exploring new tech to deliver high-quality code and great experiences.</p>
+<p align="center" style="max-width: 200px;" >I'm focused on building efficient, scalable, and user-friendly applications with React, Node.js, and Tailwind CSS. Always exploring new tech to deliver high-quality code and great experiences.</p>
 <div align="center">
   <a href="https://github.com/JonathanPR0">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanPR0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
